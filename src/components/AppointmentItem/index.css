@@ -1,0 +1,12 @@
+.list {
+  list-style: none;
+  background-color: #ffffff;
+  border-style: outset;
+  width: 250px;
+}
+
+.namestar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
